@@ -12,3 +12,8 @@
 
 link examples: [click here](https://markdowntutorial.com/)
 
+
+## equations (_latex_)
+$a_8 = b^2$
+$\sum$
+$sqrt{\phi}$
